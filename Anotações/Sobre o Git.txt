@@ -1,0 +1,6 @@
+                     DESAFIO GIT/GITHUB
+
+
+O Github é uma das maiores plataformas de hospedagem de código fonte para controle de versionamento ou controle de versão (VCS) vulgo Git.
+
+O sistema de controle de versão ajuda a acompanhar as mudanças feitas no código base. E mais, ele também registra quem efetuou a mudança e permite a restauração do código removido ou modificado.
